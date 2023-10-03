@@ -16,6 +16,7 @@ class Superhero:
     def fight_goddess_hel(self):
         return f"{self.name} wants to fight the goddess Hel, but can't find her."
 
+# The heros (these are all characters in a comic book im making.)
 hero1 = Superhero("Archer Kole", "Archer Kole is too cool for superpowers.", 150000)
 hero2 = Superhero("Diablo", "Controls the fires of hell and can send people to hell.", 5000)
 hero3 = Superhero("Bear Shield", "He wields the ancient bear shield.", 0)
